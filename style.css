@@ -1,0 +1,47 @@
+*{
+    padding: 0;margin: 0;box-sizing: border-box;
+}
+
+
+#ImageId{
+    /* display: none;  */
+}
+
+.addList{
+    display: flex;
+    height: 30vh;
+    width: 20vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.yoyo{
+    display: none;
+}
+
+#input_text{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid  orange;
+  background-color: black;
+  color: white;  
+}
+
+.buttn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid orange;
+    width: 18vw;
+    background-color: brown;
+    color: white;
+}
+
+.textt{
+    display: block;
+    width: 10vw;
+    height: 8vh;
+    background-color: red;
+    color: white;
+}
